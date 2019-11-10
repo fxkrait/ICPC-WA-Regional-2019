@@ -2,7 +2,7 @@
 Div 2
 
 ## About:
-This was the first programming competition I competed in. Our team was #369 called "Deep Mind", and consisted of me (Gregory Hablutzel), Garret Humphrey, and Jacob Sousie @Hyper2Code. I think I can speak for all members of our team in saying that this was one of the best experiences of our lives. I was initially hesitant about participating, but I am very glad I did. I never expected programming, and deriving algorithms to be this level of fun. I'm pretty certain we will all be competiting next year in Div 1.
+This was the first programming competition I competed in. Our team was #369 called "Deep Mind", and consisted of me (Gregory Hablutzel), Garret Humphrey, and Jacob Sousie @Hyper2Code. I think I can speak for all members of our team in saying that this was one of the best experiences of our lives. I was initially hesitant about participating, but I am very glad I did. I never expected programming, and deriving (very primitive) algorithms to be this level of fun. I'm pretty certain we will all be competiting next year in Div 1.
 ## Slow Start:
 We had finished the practice problem very quickly, and felt confident. However, during the competition we had a really slow start. We didn't realize how optimizations and edge cases were. 
 ## Optimization Example:
